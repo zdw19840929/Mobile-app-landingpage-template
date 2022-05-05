@@ -1,0 +1,12 @@
+app:
+  screenshots: 将您的日程自动展示到锁屏壁纸上面
+  description: 猫咪锁屏是什么？
+
+footer:
+  copyright: Cat Lock
+  links:
+    - title: 微博
+      url: https://weibo.com/u/2325532315
+      target: _blank
+    - title: 隐私
+      url: https://weiweiplay.wordpress.com/2021/05/18/%e9%9a%90%e7%a7%81%e6%94%bf%e7%ad%96/
